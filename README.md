@@ -1,10 +1,8 @@
 ## Ruan Moreira
 
-![Computer Science](https://img.shields.io/badge/Computer%20Science-black?style=for-the-badge)
+`Computer Science`
 
-<p align="left">
 sou estudante de ciência da computação. Gosto de criar soluções próprias para problemas cotidianos, com isso melhorar minhas habilidades para resolver problemas.
-</p>
 
 ---
 
