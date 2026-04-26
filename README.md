@@ -1,5 +1,5 @@
 ## Ruan Moreira
-¡.![[]Insígnia Estática](https://img.shields.io/badge/Computer%20Science(S)
+¡.![[]Insígnia Estática](https://img.shields.io/badge/Computer%20Science(S)]
 
 
 sou desenvolvedor de software com curiosidade para aprender e melhorar. Gosto de criar soluções próprias para problemas cotidianos, com isso melhorar minhas habilidades para resolver problemas. 
