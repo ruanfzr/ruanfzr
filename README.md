@@ -1,6 +1,6 @@
 ## Ruan Moreira
 
-*`Computer Science`*
+`Computer Science`
 
 sou estudante de ciência da computação. Gosto de criar soluções próprias para problemas cotidianos, com isso melhorar minhas habilidades para resolver problemas.
 
