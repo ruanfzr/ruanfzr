@@ -4,6 +4,8 @@
 
 sou estudante de ciência da computação. Gosto de criar soluções próprias para problemas cotidianos, com isso melhorar minhas habilidades para resolver problemas.
 
+trabalhando em novos projetos.
+
 ---
 
 ### 🧰 Ferramentas e Linguagens
